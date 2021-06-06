@@ -1,2 +1,2 @@
 # Preloader
-preloader before loading any page
+preloader before loading any page (using JavaScript, css3 and HTML5)
